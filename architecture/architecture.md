@@ -22,7 +22,7 @@ An example system in Azure could be:
 
 Advantages:
 
-* Save resources and cost when an environment is not in use. Pipelines can be set up to create and destroy on a schedule.
+* Save resources and cost when an environment is not in use. Pipelines can be set up to create and destroy on a schedule. If this works for you on week-ends it's over 25%.
 * Enable you to create beefy test environments that would otherwise be too costly and cumbersome to set up
 
 Disadvantages:
