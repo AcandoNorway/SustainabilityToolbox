@@ -23,6 +23,14 @@ You can instruct Azure Storage to delete old data ore move to "cool" tier using 
     }
   }
   ```
+## Start/Stop Azure VMs during off-hours
+
+Azure provides functionality to schedule start and stop of VMs.
+
+Documentation can be found here: 
+https://docs.microsoft.com/en-us/azure/automation/automation-solution-vm-management
+https://www.youtube.com/watch?v=s1e1cAFO2do
+
 
 ## TODO write about
 
